@@ -15,6 +15,9 @@ namespace secB_git_basico_comando_init
                 Console.WriteLine("LOOP INFINITO");
             }
             Console.ReadLine();
+            Console.WriteLine("----------------------------------------");
+	    Console.ReadLine();
+
         }
     }
 }
