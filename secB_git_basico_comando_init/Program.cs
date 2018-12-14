@@ -9,7 +9,9 @@ namespace secB_git_basico_comando_init
             Console.WriteLine("Hello World!");
             Console.WriteLine("Modificado para versionamento!");
             Console.WriteLine("Mais uma modificação.");
-            Console.ReadLine();
+            Console.WriteLine("----------------------------------------");
+	    Console.ReadLine();
+
         }
     }
 }
